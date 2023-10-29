@@ -1,9 +1,8 @@
 # image-processing-app
 
-**
+
 Instructions:
-**
-git clone 
+```git clone 
 cd image-processing-app
 python3 -m venv venv
 source venv/bin/activate
